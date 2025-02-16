@@ -25,4 +25,4 @@ The project visualizes **different lines** and how well they fit the data.
 ## 🚀 How to Run the Code
 1️⃣ Clone the repository:
    ```bash
-   git clone https://github.com/aicoaching2025/linear-regression.git
+   git clone https://github.com/aicoaching2025/Line_of_Best_Fit.git
